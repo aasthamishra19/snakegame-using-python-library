@@ -16,7 +16,7 @@ The Snake Game is a classic arcade game brought to life with modern web technolo
 **Installation**:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/aasthamishra19/snake-game.git
+    git clone https://github.com/aasthamishra19/snakegame-using-python-library.git
     ```
 2. Navigate to the project directory:
     ```bash
